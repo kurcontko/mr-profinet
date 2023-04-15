@@ -1,32 +1,24 @@
-# Markdown syntax guide
+# Mr. PROFINET
+A PROFINET devices network scanner, developed in LabVIEW.
 
-## Headers
+## Overview
+Mr. PROFINET is a powerful and easy-to-use network scanning tool designed to detect PROFINET devices in your network. The program is built in LabVIEW and utilizes a C .dll to implement Raw Sockets with Winpcap.
 
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
+The application employs a simple Finite State Machine (FSM) to scan and analyze PROFINET-DCP frames, helping you identify devices and monitor your PROFINET network fast and easy.
 
-## Emphasis
+## Features
+Scans PROFINET devices in your network
+Utilizes Raw Sockets with Winpcap for efficient and accurate scanning
+Simple and straightforward FSM for scanning PROFINET-DCP frames
 
-*This text will be italic*  
-_This will also be italic_
+## Project Status
+This project was last updated and maintained in 2018. 
 
-**This text will be bold**  
-__This will also be bold__
+## Getting Started
+To use Mr. PROFINET, simply download or clone the repository and open the project in LabVIEW. Ensure that you have the required dependencies installed, such as Winpcap, and follow the instructions provided in the project.
 
-_You **can** combine them_
+## Contributing
+Contributions are welcome! If you'd like to improve Mr. PROFINET or update it to work with the latest standards and software, please feel free to submit a pull request or open an issue to discuss your ideas.
 
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-
-### Ordered
-
-1. Item 1
-1. Item 2
-1. Item 3
+## License
+This project is released under the MIT License.
