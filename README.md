@@ -7,9 +7,9 @@ Mr. PROFINET is a powerful and easy-to-use network scanning tool designed to det
 The application employs a simple Finite State Machine (FSM) to scan and analyze PROFINET-DCP frames, helping you identify devices and monitor your PROFINET network fast and easy.
 
 ## Features
-Scans PROFINET devices in your network
-Utilizes Raw Sockets with Winpcap for efficient and accurate scanning
-Simple and straightforward FSM for scanning PROFINET-DCP frames
+* Scans PROFINET devices in your network
+* Utilizes Raw Sockets with Winpcap for efficient and accurate scanning
+* Simple and straightforward FSM for scanning PROFINET-DCP frames
 
 ## Project Status
 This project was last updated and maintained in 2018. 
