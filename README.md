@@ -8,7 +8,7 @@ The application employs a simple Finite State Machine (FSM) to scan and analyze 
 
 ## Features
 * Scans PROFINET devices in your network
-* Utilizes Raw Sockets with Winpcap for efficient and accurate scanning
+* Utilizes Raw Sockets with Winpcap for fast and efficient scanning
 * Simple and straightforward FSM for scanning PROFINET-DCP frames
 
 ## Project Status
